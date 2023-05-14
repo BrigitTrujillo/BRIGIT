@@ -10,7 +10,7 @@ namespace Ejercicio09
         {
             InitializeComponent();
 
-            MainPage = new InheritanceDemo();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
